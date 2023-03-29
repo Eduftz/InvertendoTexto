@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Conversor.cpp">
+    <ClCompile Include="Invertendo.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
